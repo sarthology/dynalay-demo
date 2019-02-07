@@ -35,15 +35,19 @@ html {
 
 .dynamic-header {
     font-family: sans-serif;
-    font-size: 40px;
+    color:black;
+    transition: color 2s;
 }
+
 .name{
     font-weight: 500;
+    font-size: 40px;
     text-align: center;
 }
 
 .title{
     font-weight: 100;
+    font-size: 40px;
 }
 .dark-btn {
     background: #312f2f;
@@ -53,6 +57,9 @@ html {
 .light-btn {
     background: white;
     color: #312f2f;
+}
+.light-text{
+    color:white;
 }
 
 .btn {
