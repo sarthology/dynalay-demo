@@ -5,6 +5,13 @@
 ## Dynalay Demo
 
 A simple way to make a dynamic text overlays on images.
+[Check here](https://sarthology.github.io/dynalay-demo/)
+
+## Screenshot
+
+<div align="center">
+	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R2skm3Sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/htoqfs5csmyp8o6gw8ug.gif">
+</div>
 
 ## Prerequisites
 
